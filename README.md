@@ -15,6 +15,7 @@
 | Sort           | `nums.sort()`        | In-place sort        |
 | Reverse        | `nums.reverse()`     | In-place reverse     |
 | Copy           | `nums.copy()`        | Shallow copy         |
+| Clear          | `nums.clear()`       | Emptying entire list |
 | Length         | `len(nums)`          | Size                 |
 | Membership     | `2 in nums`          | Check existence      |
 
